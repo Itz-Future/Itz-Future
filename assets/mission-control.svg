@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="326" viewBox="0 0 1200 326" role="img" aria-labelledby="title desc">
+<title id="title">Unreal Studios mission control</title><desc id="desc">Animated design-forward command console with a staged terminal transcript, moving telemetry lines, and a luminous signal waveform. Decorative animation, not live system data.</desc>
+<defs>
+ <linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B0B17"/><stop offset=".6" stop-color="#171024"/><stop offset="1" stop-color="#0A0915"/></linearGradient>
+ <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#8050EB"/><stop offset=".5" stop-color="#D8B5FF"/><stop offset="1" stop-color="#6F44D9"/></linearGradient>
+ <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#9767F9" stop-opacity="0"/><stop offset=".5" stop-color="#DAB9FF" stop-opacity=".75"/><stop offset="1" stop-color="#9767F9" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9E7DCE" stroke-opacity=".08"/></pattern>
+ <clipPath id="screen"><rect x="26" y="65" width="1148" height="235" rx="8"/></clipPath>
+ <style><![CDATA[
+ .mono{font-family:Consolas,"Liberation Mono",monospace}.sans{font-family:Inter,"Segoe UI",Arial,sans-serif}
+ .cursor{animation:blink 1s steps(1,end) infinite}.reveal1{animation:reveal 9s infinite}.reveal2{animation:reveal2 9s infinite}.reveal3{animation:reveal3 9s infinite}.glow{animation:pulse 4s ease-in-out infinite}
+ @keyframes blink{50%{opacity:0}}
+ @keyframes reveal{0%,5%{opacity:0}12%,100%{opacity:1}}
+ @keyframes reveal2{0%,20%{opacity:0}30%,100%{opacity:1}}
+ @keyframes reveal3{0%,38%{opacity:0}48%,100%{opacity:1}}
+ @keyframes pulse{0%,100%{opacity:.3}50%{opacity:.8}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+ ]]></style>
+</defs>
+<rect x="1" y="1" width="1198" height="324" rx="15" fill="url(#back)" stroke="#63488B"/>
+<rect x="1" y="1" width="1198" height="52" rx="15" fill="#1C152F"/>
+<rect x="1" y="40" width="1198" height="13" fill="#1C152F"/>
+<path d="M1 53H1199" stroke="#77589E" stroke-opacity=".52"/>
+<circle cx="29" cy="27" r="6" fill="#D383AB"/><circle cx="51" cy="27" r="6" fill="#E1BE77"/><circle cx="73" cy="27" r="6" fill="#8ECCA9"/>
+<text x="600" y="32" text-anchor="middle" fill="#CCB5E7" class="mono" font-size="13" letter-spacing="2">UNREAL / MISSION CONTROL</text>
+<text x="1158" y="32" text-anchor="end" fill="#8B78AA" class="mono" font-size="12">VISUAL MODE / 01</text>
+<g clip-path="url(#screen)">
+ <rect x="26" y="65" width="1148" height="235" fill="url(#grid)"/>
+ <path d="M650 65V299" stroke="#7E5AA6" opacity=".3"/>
+ <g class="mono" font-size="17">
+  <text x="51" y="102" fill="#8A6ABD">~</text><text x="74" y="102" fill="#F0E5FF">itz-future</text><text x="180" y="102" fill="#AFA1C6">:~/unreal $</text><text x="318" y="102" fill="#BB95FF">./build-beyond-ordinary</text>
+  <g class="reveal1"><text x="52" y="147" fill="#8EDEBB">✓</text><text x="84" y="147" fill="#D3C8E4">Design with intention</text></g>
+  <g class="reveal2"><text x="52" y="190" fill="#8EDEBB">✓</text><text x="84" y="190" fill="#D3C8E4">Engineer for reliability</text></g>
+  <g class="reveal3"><text x="52" y="233" fill="#8EDEBB">✓</text><text x="84" y="233" fill="#D3C8E4">Refine every detail</text></g>
+  <text x="52" y="281" fill="#A78BD0">▸</text><text x="81" y="281" fill="#D5C5F6">The next build starts here.</text><rect x="359" y="267" width="10" height="18" fill="#AF7AFF" class="cursor"/>
+ </g>
+ <g transform="translate(681 79)">
+   <text x="0" y="15" class="mono" letter-spacing="2" font-size="12" fill="#AB94D1">CREATIVE TELEMETRY</text>
+   <path d="M0 42H443M0 176H443" stroke="#8D6DB3" opacity=".26"/>
+   <g stroke="#765AA0" stroke-opacity=".22"><path d="M0 68H443M0 106H443M0 144H443"/><path d="M40 42V176M112 42V176M184 42V176M256 42V176M328 42V176M400 42V176"/></g>
+   <path d="M0 131L38 120 71 137 108 90 145 108 185 67 225 103 265 72 309 95 346 51 385 78 443 42" stroke="#9877DB" stroke-width="8" fill="none" opacity=".22"/>
+   <path d="M0 131L38 120 71 137 108 90 145 108 185 67 225 103 265 72 309 95 346 51 385 78 443 42" stroke="url(#purple)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="650" stroke-dashoffset="650">
+     <animate attributeName="stroke-dashoffset" values="650;0;0" keyTimes="0;.65;1" dur="8s" repeatCount="indefinite"/>
+   </path>
+   <circle cx="346" cy="51" r="5" fill="#EDCEFF" class="glow"/>
+   <g class="mono" font-size="12" fill="#A48FC4"><text x="0" y="205">IDEATE</text><text x="176" y="205">BUILD</text><text x="357" y="205">EVOLVE</text></g>
+   <g fill="#AC78FF"><circle cx="160" cy="200" r="2.5"/><circle cx="340" cy="200" r="2.5"/></g>
+ </g>
+</g>
+</svg>
