@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Unreal Studios — software, systems, and digital experiences">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090911"/><stop offset="0.56" stop-color="#141024"/><stop offset="1" stop-color="#221338"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BE9DFF"/><stop offset="1" stop-color="#7443ED"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#7D4AFF" stop-opacity=".28"/><stop offset="1" stop-color="#7D4AFF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#A58BD7" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <clipPath id="round"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1020" cy="155" r="270" fill="url(#glow)"/>
+    <path d="M0 0H1200" stroke="#B69AFF" stroke-opacity=".25" stroke-width="2"/>
+    <rect x="72" y="52" width="42" height="42" rx="11" fill="url(#accent)"/>
+    <path d="M85 64v15l8 5 8-5V64" stroke="#100B21" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+    <text x="128" y="78" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2.7" fill="#B9A1F1">ITZ-FUTURE / GITHUB</text>
+    <text x="73" y="178" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="67" font-weight="750" letter-spacing="-2.6" fill="#F7F4FF">UNREAL <tspan fill="#AD83FF">STUDIOS</tspan></text>
+    <text x="76" y="218" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" letter-spacing="2.6" fill="#CDC5DC">SOFTWARE  /  SYSTEMS  /  DIGITAL EXPERIENCES</text>
+    <path d="M76 251h430" stroke="#9871EB" stroke-width="2" stroke-opacity=".7"/>
+    <text x="76" y="283" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#978BAF">Build with purpose. Refine every detail.</text>
+    <g fill="none" stroke="#B89CFF">
+      <circle cx="1010" cy="160" r="102" stroke-width="2" stroke-opacity=".22"/>
+      <circle cx="1010" cy="160" r="70" stroke-width="2" stroke-opacity=".36"/>
+      <circle cx="1010" cy="160" r="39" stroke-width="3" stroke-opacity=".7"/>
+      <path d="M871 160h278M1010 21v278M912 62l196 196M1108 62L912 258" stroke-width="1.2" stroke-opacity=".18"/>
+      <path d="M989 144v26l21 13 21-13v-26" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <circle cx="1080" cy="160" r="5" fill="#CEB8FF"/><circle cx="1010" cy="58" r="4" fill="#9672EE"/><circle cx="941" cy="160" r="3" fill="#9672EE"/>
+  </g>
+</svg>
