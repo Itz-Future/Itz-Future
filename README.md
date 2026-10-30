@@ -1,74 +1,94 @@
 <div align="center">
 
-<img src="./assets/unreal-studios-banner.svg" width="100%" alt="Unreal Studios — software, systems and digital experiences" />
+<a href="https://unrealstudios.ca"><img src="./assets/unreal-studios-banner.svg" width="100%" alt="UNREAL STUDIOS — Build Beyond Ordinary. Animated dark purple profile header with orbital insignia." /></a>
 
 <br />
 
-**Developer behind Unreal Studios** — building refined software, connected platforms, and tools for digital communities.
+<a href="https://unrealstudios.ca"><img src="https://img.shields.io/badge/EXPLORE-UNREAL%20STUDIOS-9560FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Unreal Studios" /></a>
+<a href="https://unrealstudios.ca/products"><img src="https://img.shields.io/badge/BROWSE-OUR%20CREATIONS-20172E?style=for-the-badge&amp;logo=codepen&amp;logoColor=CFB3FF" alt="Browse Unreal Studios products" /></a>
+<a href="https://github.com/Itz-Future?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-GITHUB%20PROJECTS-20172E?style=for-the-badge&amp;logo=github&amp;logoColor=CFB3FF" alt="Explore GitHub repositories" /></a>
 
-[![Website](https://img.shields.io/badge/Website-unrealstudios.ca-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://unrealstudios.ca)
-[![Projects](https://img.shields.io/badge/GitHub-Explore_Projects-171321?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itz-Future?tab=repositories)
-[![Support](https://img.shields.io/badge/Support-Unreal_Studios-272034?style=for-the-badge&logo=helpdesk&logoColor=white)](https://unrealstudios.ca/support)
+<br /><br />
+
+<sub><strong>THE CREATOR BEHIND UNREAL STUDIOS</strong> &nbsp; ◇ &nbsp; DESIGNING WHAT'S NEXT</sub>
 
 </div>
 
----
+<br />
 
-### About
+### <code>01</code> &nbsp; / &nbsp; THE PERSON BEHIND THE PIXELS
 
-I'm the creator behind **[Unreal Studios](https://unrealstudios.ca)**, a brand focused on thoughtful development, reliable systems, and polished user experiences.
+I build **Unreal Studios** — a creative development brand where thoughtful engineering meets exceptionally polished design.
 
-My work spans **FiveM resources**, **web applications**, **community platforms**, and **self-hosted infrastructure**. I care about the little things: fast interfaces, consistent design, maintainable code, and software that feels great to use.
+From **FiveM resources and game tooling** to **web platforms, customer experiences, Minecraft projects, and self-hosted systems**, I like building things that don't just work. They feel *right*.
 
-### What I build
+My philosophy is simple: **make it useful, make it beautiful, and keep pushing the details.**
 
-| Area | Focus |
+<br />
+
+### <code>02</code> &nbsp; / &nbsp; THE CREATIVE GRID
+
+<img src="./assets/focus-grid.svg" width="100%" alt="Three illustrated Unreal Studios focus areas: FiveM and gameplay, products and user interfaces, and systems and operations." />
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>GAMEPLAY ENGINEERING</strong><br/><sub>FiveM resources, ControlX, vehicle systems, custom menus and quality-of-life tools.</sub></td>
+<td width="33%" valign="top"><strong>PRODUCT EXPERIENCES</strong><br/><sub>Modern websites, portals, dashboards, analytics, support platforms and design systems.</sub></td>
+<td width="34%" valign="top"><strong>CONNECTED SYSTEMS</strong><br/><sub>Linux infrastructure, virtualization, deployments, automation and experimental AI interfaces.</sub></td>
+</tr>
+</table>
+
+<br />
+
+### <code>03</code> &nbsp; / &nbsp; BUILT IN THE UNREAL UNIVERSE
+
+| Project / domain | What it is |
 | :-- | :-- |
-| **FiveM & game tools** | Custom resources, server utilities, vehicle systems, and admin experiences |
-| **Web & product platforms** | Modern dashboards, storefronts, user portals, support tools, and analytics |
-| **Infrastructure** | Linux services, deployment workflows, virtualization, and practical automation |
-| **Interface design** | Dark-first design systems, smooth interactions, and accessible experiences |
+| **[Unreal Studios](https://unrealstudios.ca)** | The home of our development work, releases, store and customer platform. |
+| **[Unreal ControlX](https://unrealstudios.ca/products/fivem)** | Standalone FiveM emergency vehicle controls, sirens and lighting tools. |
+| **[FiveM Resources](https://unrealstudios.ca/products/fivem)** | Vehicle HUD, Extra Menu, Music Zones, Trailer Support, Vehicle Spawner and more. |
+| **[Minecraft Projects](https://unrealstudios.ca/products)** | Community tools, gameplay utilities and other experiments. |
+| **Unreal Studios Infrastructure** | Internal platforms, automation, support systems and operational tooling. |
 
-### The Unreal Studios ecosystem
+<sub>Not everything I build is public source code. Some projects are private, commercial, or released through Unreal Studios.</sub>
 
-- **Unreal Studios Platform** — the official website, products, partner features, and customer experiences.
-- **Unreal Control X** — custom controls and utilities for FiveM communities.
-- **URS resources** — purpose-built gameplay and server enhancements, from vehicle tools to quality-of-life systems.
-- **Experimental tooling** — automation, voice interfaces, and connected-system prototypes.
+<br />
 
-> Some work is private or distributed through Unreal Studios rather than published as open-source repositories.
-
-### Technology I work with
+### <code>04</code> &nbsp; / &nbsp; TOOLS OF THE TRADE
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-191522?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-191522?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![HTML5](https://img.shields.io/badge/HTML5-191522?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS-191522?style=flat-square&logo=css&logoColor=8B5CF6)
-![Lua](https://img.shields.io/badge/Lua-191522?style=flat-square&logo=lua&logoColor=5A67D8)
-![Python](https://img.shields.io/badge/Python-191522?style=flat-square&logo=python&logoColor=3776AB)
-![Linux](https://img.shields.io/badge/Linux-191522?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-191522?style=flat-square&logo=docker&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-191522?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Git](https://img.shields.io/badge/Git-191522?style=flat-square&logo=git&logoColor=F05032)
+<img src="https://img.shields.io/badge/JavaScript-14101E?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-14101E?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=69BC74" alt="Node.js" />
+<img src="https://img.shields.io/badge/HTML5-14101E?style=for-the-badge&amp;logo=html5&amp;logoColor=E78B6C" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-14101E?style=for-the-badge&amp;logo=css&amp;logoColor=B88AFF" alt="CSS" />
+<img src="https://img.shields.io/badge/Lua-14101E?style=for-the-badge&amp;logo=lua&amp;logoColor=8872E2" alt="Lua" />
+<img src="https://img.shields.io/badge/Python-14101E?style=for-the-badge&amp;logo=python&amp;logoColor=74B6EE" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-14101E?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-14101E?style=for-the-badge&amp;logo=docker&amp;logoColor=6FBEF2" alt="Docker" />
+<img src="https://img.shields.io/badge/Cloudflare-14101E?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=F5A35B" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Git-14101E?style=for-the-badge&amp;logo=git&amp;logoColor=F47C67" alt="Git" />
 
 </div>
 
-### Principles
+<br />
 
-**Design with intention.** Keep interfaces clear, useful, and consistent.  
-**Build for the long term.** Prefer reliable, maintainable solutions over shortcuts.  
-**Keep improving.** Test, refine, and make every release better.
+### <code>05</code> &nbsp; / &nbsp; MISSION CONTROL
 
----
+<img src="./assets/mission-control.svg" width="100%" alt="Animated Unreal Studios command console depicting three design principles and a decorative creative signal graph." />
+
+> **Design with intention.** &nbsp; **Engineer for reliability.** &nbsp; **Refine every detail.**
+
+<br />
 
 <div align="center">
 
-**UNREAL STUDIOS** · Creating better digital experiences
+### READY TO BUILD SOMETHING GREAT?
 
-[Official Website](https://unrealstudios.ca) · [Products](https://unrealstudios.ca/products) · [GitHub Repositories](https://github.com/Itz-Future?tab=repositories)
+**[VISIT UNREAL STUDIOS](https://unrealstudios.ca)** &nbsp; / &nbsp; **[EXPLORE PRODUCTS](https://unrealstudios.ca/products)** &nbsp; / &nbsp; **[GET SUPPORT](https://unrealstudios.ca/support)**
 
-<sub>© Unreal Studios · Built by Itz-Future</sub>
+<br />
+
+<sub>UNREAL STUDIOS &nbsp; ◇ &nbsp; CRAFTED BY <a href="https://github.com/Itz-Future">ITZ-FUTURE</a><br/>Independent development. Unreasonable attention to detail.</sub>
 
 </div>
