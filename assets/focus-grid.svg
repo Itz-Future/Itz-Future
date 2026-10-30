@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="255" viewBox="0 0 1200 255" role="img" aria-labelledby="t d">
+<title id="t">Unreal Studios engineering focus</title><desc id="d">Three animated cards for gameplay engineering, digital platforms, and connected infrastructure.</desc>
+<defs>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151225"/><stop offset="1" stop-color="#0A0A15"/></linearGradient>
+ <linearGradient id="hi"><stop stop-color="#7C4DFF"/><stop offset=".5" stop-color="#E0C7FF"/><stop offset="1" stop-color="#8655F9"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#A77BFA" stop-opacity=".04"/><stop offset=".5" stop-color="#C7A7FF" stop-opacity=".8"/><stop offset="1" stop-color="#A77BFA" stop-opacity=".04"/></linearGradient>
+ <style><![CDATA[
+ .text{font-family:Inter,"Segoe UI",Arial,sans-serif}.mono{font-family:Consolas,monospace}
+ .light{animation:glint 4.5s ease-in-out infinite}.light2{animation:glint 5s ease-in-out -1.3s infinite}
+ .light3{animation:glint 5.5s ease-in-out -2.2s infinite}
+ @keyframes glint{0%,100%{opacity:.3}55%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ ]]></style>
+</defs>
+<g>
+ <rect x="1" y="1" width="386" height="252" rx="14" fill="url(#card)" stroke="#5A4087" stroke-opacity=".75"/>
+ <rect x="407" y="1" width="386" height="252" rx="14" fill="url(#card)" stroke="#5A4087" stroke-opacity=".75"/>
+ <rect x="813" y="1" width="386" height="252" rx="14" fill="url(#card)" stroke="#5A4087" stroke-opacity=".75"/>
+ <g stroke="url(#line)" stroke-width="2"><path d="M28 3H215"/><path d="M433 3H630"/><path d="M840 3H1036"/></g>
+ <g font-family="Consolas,monospace" font-size="12" fill="#AD92D6" letter-spacing="2">
+  <text x="28" y="39">01 / PLAY</text><text x="434" y="39">02 / CREATE</text><text x="840" y="39">03 / CONNECT</text>
+ </g>
+ <g fill="none" stroke="#BE9EFF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+   <path d="M34 84h59q10 0 15 12l12 32q4 13-7 17-6 2-13-4l-18-16H45l-18 16q-8 6-14 2-8-5-4-15l12-32q4-12 13-12z" transform="translate(26 -5)" class="light"/>
+   <path d="M72 96v22M61 107h22M104 100h1M116 112h1" transform="translate(26 -5)" stroke-width="4"/>
+   <rect x="460" y="79" width="92" height="64" rx="8" class="light2"/>
+   <path d="M460 97h92M475 87h1M487 87h1M499 87h1M475 112h33M475 124h57"/>
+   <circle cx="882" cy="112" r="21" class="light3"/><circle cx="957" cy="85" r="16"/><circle cx="964" cy="143" r="17"/><path d="M900 103l42-14M900 120l49 18"/>
+ </g>
+ <g class="text" font-size="25" font-weight="750" fill="#F0E9FF">
+  <text x="28" y="185">FiveM &amp; gameplay</text><text x="434" y="185">Products &amp; UI</text><text x="840" y="185">Systems &amp; ops</text>
+ </g>
+ <g class="text" fill="#A99DBD" font-size="15">
+  <text x="28" y="214">Resources. Controls. Immersion.</text>
+  <text x="434" y="214">Dashboards. Portals. Experiences.</text>
+  <text x="840" y="214">Infrastructure. Tools. Automation.</text>
+ </g>
+ <g stroke="#8B66CF" stroke-opacity=".38"><path d="M28 232h329"/><path d="M434 232h329"/><path d="M840 232h329"/></g>
+ <g fill="#D9B8FF"><circle cx="357" cy="232" r="3"><animate attributeName="cx" values="28;357;28" dur="5.5s" repeatCount="indefinite"/></circle><circle cx="763" cy="232" r="3"><animate attributeName="cx" values="434;763;434" dur="7s" repeatCount="indefinite"/></circle><circle cx="1169" cy="232" r="3"><animate attributeName="cx" values="840;1169;840" dur="6s" repeatCount="indefinite"/></circle></g>
+</g>
+</svg>
